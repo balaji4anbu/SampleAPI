@@ -1,0 +1,5 @@
+dbo.qry_salereturnstock
+dbo.Qry_SalRetStock
+dbo.saleReturnstock
+
+
